@@ -1,0 +1,10 @@
+body{
+    background: orange;
+}
+.header{
+    color:rgb(179, 255, 0);
+    background: red;
+}
+p{
+    color: rgb(68, 0, 255);
+}

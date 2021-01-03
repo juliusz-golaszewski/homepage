@@ -1,0 +1,18 @@
+body{
+    background: #bef300;
+}
+h1{
+    color:red;
+}
+h2{
+    color: grey;
+}
+.pretty-header1{
+    color:orange;
+}
+.pretty-header2{
+    color: green;
+}
+.pretty-header3{
+    color: white;
+}   
